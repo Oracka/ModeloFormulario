@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+ box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items:center;
+    background-image: url(__Caïpirinha__\ \(1\).gif);
+}
+form{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    gap: 10px;
+    height: 35vh;
+    border: solid 1px;
+    padding: 10px;
+    border-radius: 5%;
+    background-color: rgba(9, 184, 24, 0.712);
+
+}

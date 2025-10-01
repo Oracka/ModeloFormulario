@@ -1,0 +1,22 @@
+construir utilizando html, css e javascript:
+
+Você deve construir um GRID com um formulário. (lembrar de usar a tag form)
+Esse formulário devera conter os seguintes campos:
+Nome
+Endereço
+CEP   xx.xxx-xxx
+CPF    xxx.xxx.xxx-xx
+TELEFONE (xx) x xxxx-xxxx
+CNPJ XX.XXX.XXX/XXXX-XX
+CODIGO  xx_xx//xxx-xxx.9.xxx
+
+
+Quando enviado o formulário, mostrar na tela uma mensagem de confirmação de envio.
+
+
+Fazer a máscara de preenchimento todos os campos com javascript.
+O código deve ser feito como ensinado em aula, caso contrário sua atividade será zerada.
+Toda a matéria está postada no classroom. E apostila a partir da pag 65.
+O uso de IA caracteriza cola e sua nota será 0.
+
+Atividade individual

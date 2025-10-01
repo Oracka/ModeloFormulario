@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="Formulario.css">
+    <script src="Formulario.js"></script>
+
+</head>
+
+<body>
+<form action="Enviado.html">
+    <label>nome</label>
+    <input type="text" placeholder="nome referente ao sujeito " id="nome">
+    
+    <label>endereço</label>
+    <input type="text" placeholder="local de estadia do sujeito" id="endereco">
+
+    <label>telefone</label>
+    <input type="text" placeholder="(31)99999-9999" id="telefone" maxlength="14" oninput= TEL()>
+
+    <label>cpf</label>
+    <input type="text" placeholder="id do sujeito" id="cpf" maxlength="14" oninput= CPF()>
+
+    <label>cep</label>
+    <input type="text" placeholder="id do sujeito" id="cep" maxlength="10" oninput= CEP()>
+
+    <label>cnpj</label>
+    <input type="text" placeholder="id do sujeito" id="cnpj" maxlength="18" oninput= CNPJ()>
+
+    <label>codigo</label>
+    <input type="text" placeholder="codigo do sujeito" id="codigo1" maxlength="20" oninput= "COD()">
+
+    <label for=""></label><input type="submit" value="enviar"  id="botaoenvio" >
+</form>
+
+
+</body>
+</html>
